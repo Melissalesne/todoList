@@ -1,11 +1,11 @@
 # TodoList javaScript vanilla
 
-######Ajouter un élément dans la liste
+1.Ajouter un élément dans la liste
 
-######Afficher la liste
+2.Afficher la liste
 
-######Supprimer un élement dans la liste
+3.Supprimer un élement dans la liste
 
-######Valider une todo
+4.Valider une todo
 
-######Edité une todo
+5.Edité une todo
